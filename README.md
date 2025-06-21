@@ -9,7 +9,7 @@ A Non-Binary, Pattern-Modulated Communication Framework
 
 ## Overview
 
-The **SyncKrypt Protocol (SK-IPS)** introduces a novel, non-binary model for secure communication by leveraging synchronized pattern-based cryptographic state evolution. It draws conceptual and structural inspiration from the **TLSE (Temporal-Linked Secure Entanglement)** protocol, part of the *Aetherokrypt Research Series* developed by the same author: [https://github.com/hejhdiss/TLSE](https://github.com/hejhdiss/TLSE).
+The **SyncKrypt Protocol (SK-IPS)** introduces a novel, non-binary model for secure communication by leveraging synchronized pattern-based cryptographic state evolution. It draws conceptual and structural inspiration from the **TLSE (Time-Locked Symmetric Encryption)** protocol, part of the *Aetherokrypt Research Series* developed by the same author: [https://github.com/hejhdiss/TLSE](https://github.com/hejhdiss/TLSE).
 
 Unlike conventional binary systems, SyncKrypt communicates through **Pattern-Modulated Entanglement Transmissions (PMETs)**—evolving, dynamic aetheric flux patterns that intrinsically encode information based on synchronized cryptographic states across endpoints.
 
